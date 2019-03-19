@@ -1,0 +1,8 @@
+button {
+    border-radius: 50%;
+    width: 50vh;
+    height: 50vh;
+    font-size: 30px;
+    box-shadow: 8px 8px 40px 8px rgba(0,0,0,0.38);
+    margin-top: 30vh;
+}
